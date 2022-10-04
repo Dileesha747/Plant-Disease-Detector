@@ -27,7 +27,7 @@ google-resumable-media==2.3.3
 googleapis-common-protos==1.56.4
 greenlet==1.1.2
 grpcio==1.49.1
-grpcio-status==1.49.1
+grpcio-status
 gunicorn==20.1.0
 h5py==3.7.0
 httplib2==0.20.4
@@ -47,7 +47,7 @@ opt-einsum==3.3.0
 packaging==21.3
 Pillow==9.2.0
 proto-plus==1.22.1
-protobuf==3.20.*
+protobuf==3.*
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.9.1
